@@ -346,6 +346,18 @@ section {
 .about-stats .progress-bars .progress-bar .progress-con .progress .api {
   width: 70%;
 }
+.about-stats .progress-bars .progress-bar .progress-con .progress .sql {
+  width: 50%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .mongoDB {
+  width: 40%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .mongoose {
+  width: 40%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .react {
+  width: 30%;
+}
 
 .stat-title {
   text-transform: uppercase;
